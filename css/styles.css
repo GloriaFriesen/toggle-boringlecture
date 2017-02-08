@@ -23,3 +23,8 @@ h2 {
     height: auto;
     float: right;
 }
+
+.initial {
+  font-size: 25px;
+  font-weight: bolder;
+}
