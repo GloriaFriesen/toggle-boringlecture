@@ -5,15 +5,18 @@ h1 {
 
 h2.intro {
   color: green;
+  font-family: cursive;
 }
 
 p.intro {
+  display: inline-block;
   text-align: left;
+  width: auto;
+  font-size: 20px;
 }
 
 img.intro {
-  display: block;
+  display: inline-block;
   border-radius: 5px
-  width: 20%;
-  height: auto;
+  width:auto;
 }
