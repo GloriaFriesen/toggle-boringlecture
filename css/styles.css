@@ -1,22 +1,25 @@
+.intro {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 h1 {
   text-align: center;
-  padding-bottom: 40px;
+  font-size: 40px;
+  padding-bottom: 20px;
 }
 
-h2.intro {
+h2 {
   color: green;
-  font-family: cursive;
 }
 
-p.intro {
-  display: inline-block;
+.intro p {
+  width: 30%;
   text-align: left;
-  width: auto;
-  font-size: 20px;
 }
 
-img.intro {
-  display: inline-block;
-  border-radius: 5px
-  width:auto;
+.intro img {
+    width: 60%;
+    height: auto;
+    float: right;
 }
