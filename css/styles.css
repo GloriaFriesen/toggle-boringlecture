@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+h2.intro {
+  color: green;
+}
+
+p.intro {
+  text-align: left;
+}
+
+img.intro {
+  display: block;
+  border-radius: 5px
+  width: 20%;
+  height: auto;
+}
